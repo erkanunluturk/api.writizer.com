@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-*kk9(bra$&*%dadz#ey3)0upztf))m$tk)szj1!vms4j4()cgu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['api.writizer.com']
+ALLOWED_HOSTS = ['127.0.0.1','api.writizer.com']
 
 
 # Application definition
